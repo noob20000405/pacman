@@ -19,3 +19,12 @@
 - [ ] 完善功能, debug
 - [ ] 注释
 - [ ] 检查考点，完成
+# github使用指南
+1. 注册
+2. 创建/加入project
+3. 安装git
+4. git clone project
+5. 安装pycharm，链接github账号
+6. 打开project，commit
+7. 开始写代码，push
+* 每次修改前记得update
