@@ -1,7 +1,5 @@
+# 文档未更新 zip文件为完成的版本
 # tp3 pacman
-## 人员
-* zixun
-* me
 ## 主要模块
 - palteau
 - fantomes
