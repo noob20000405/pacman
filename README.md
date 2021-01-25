@@ -1,5 +1,5 @@
 # 文档未更新 zip文件为完成的版本
-# tp3 pacman
+# tp3 pacman final project of L1
 ## 主要模块
 - palteau
 - fantomes
